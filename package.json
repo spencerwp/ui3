@@ -5,7 +5,7 @@
     "author": { "name": "Christian Johansen" },
     "repository": {
         "type": "git",
-        "url": "git://gitorious.org/gitorious/ui3.git"
+        "url": "git://github.com/spencerwp/ui3.git"
     },
     "scripts": {
         "test": "./node_modules/buster/bin/buster-test"
