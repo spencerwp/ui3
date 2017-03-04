@@ -24,7 +24,7 @@
 	url = https://github.com/coreyti/showdown.git
 [submodule "js/lib/uinit"]
 	path = js/lib/uinit
-	url = https://git.gitorious.org/gitorious/uinit.git
+	url = https://gitorious.org/gitorious/uinit.git
 [submodule "js/lib/timeago"]
 	path = js/lib/timeago
 	url = https://github.com/cjohansen/timeago.git
@@ -33,7 +33,7 @@
 	url = https://github.com/DmitryBaranovskiy/raphael.git
 [submodule "js/lib/capillary"]
 	path = js/lib/capillary
-	url = https://git.gitorious.org/capillary/capillary-js.git
+	url = https://gitorious.org/capillary/capillary-js.git
 [submodule "js/lib/es5-shim"]
 	path = js/lib/es5-shim
 	url = https://github.com/es-shims/es5-shim.git
